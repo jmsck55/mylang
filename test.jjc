@@ -1,0 +1,10 @@
+//
+// Input file for "my2c.ex"
+c int a;
+h #include <iostream>
+
+	print "hi world ",
+		  (4*(2));
+	puts "ok";
+	puts "good";
+	
